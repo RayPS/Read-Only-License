@@ -6,7 +6,7 @@ The ROL is an open source license for closed source projects to share thoughts o
 - Read the code using your eyeballs
 - Build or run the project
 - Try or test the project
-- Uderstanding or learning the implementations of the project
+- Understanding or learning the implementations of the project
 - Store or delete the entire project in your own physical disk
 
 ### YOU CAN'T:
