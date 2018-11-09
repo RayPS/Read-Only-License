@@ -1,7 +1,7 @@
 # Read Only License 1.0
 The ROL is an open source license for closed source projects to share thoughts on internet.
 
-As simeple as dos and don'ts.
+As simple as dos and don'ts.
 
 ### YOU CAN:
 - Clone or download the project
